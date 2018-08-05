@@ -1,0 +1,35 @@
+body {
+    font-family: 'Sue Ellen Francisco', cursive;
+    background-color: gray
+}
+
+h1 {
+    font-size: 50px;
+    color: red;
+}
+
+h2 {
+    font-size: 45px;
+    color: blue;
+}
+
+h3 {
+    font-size: 40px;
+    color: gold
+}
+
+ul {
+    font-size: 25px;
+}
+
+h4 {
+    font-size: 35px;
+}
+
+a {
+    font-size: 25px;
+}
+
+p {
+    font-size: 25px;
+}
